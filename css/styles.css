@@ -124,3 +124,16 @@ img{
     color: white;
     margin-top: 2%;
 }
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:black;
+    color: white;
+    text-align: center;
+  }
+  li{
+    text-decoration:none;
+  }
